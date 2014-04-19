@@ -1,6 +1,6 @@
 /*!
  * @brief  Realizing the inference using the belief propagation algorithm.  
- * @auther Hisashi Ikari, Tome R&D INC.
+ * @auther Hisashi Ikari, Waseda University.
  * @file
  */
 #ifndef BAYESIAN_PROBABILITY_NODE_H_INCLUDED
